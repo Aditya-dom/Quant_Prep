@@ -8,5 +8,5 @@
 * [ ] [Candy Collectors](https://www.janestreet.com/puzzles/candy-collectors-index/)
 * [ ] More JS probability puzzles?
 * [ ] [Twenty Probability Problems](https://www.math.ucdavis.edu/~gravner/MAT135A/resources/chpr.pdf) - more slowly
-* [ ] [Sums and Expcted Value](https://codeforces.com/blog/entry/62690)
+* [ ] [Sums and Expected Value](https://codeforces.com/blog/entry/62690)
 * [ ] [Putnam Probability questions](http://www.math.utoronto.ca/barbeau/putnamprob.pdf) - spend time here?
