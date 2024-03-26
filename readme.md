@@ -60,6 +60,8 @@ That's about it, I guess.
 ## Hindsight
 
 Might probably publish a blog post on this, along with some learnings in the whole process. ~~Blog Post is up, check it out [here]()!~~. stay connected.
+
+
 **TL;DR**: I am Algorithmic Trading intern at [Density Exchange](https://app.density.exchange/) this summer! :)
 
 ![zetamac scores](zetamac_plot.png)
