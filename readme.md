@@ -1,6 +1,6 @@
 # Quant-prep: I want to Buy Mega Yacht
 
-Inspired by [Aniruddha Deb](https://aniruddhadeb.com/), I decided to log my quant preparation as well. I've been going about it in an unstructured, indisciplined way so far, but have made progress (at the expense of other things), and thought that keeping a log of what I've accomplished should be helpful
+Inspired by [Jerry Qin](https://jerryqin.com), I decided to log my quant preparation as well. I've been going about it in an unstructured, indisciplined way so far, but have made progress (at the expense of other things), and thought that keeping a log of what I've accomplished should be helpful
 
 ## Books
 
