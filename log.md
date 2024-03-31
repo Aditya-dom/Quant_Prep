@@ -9,3 +9,10 @@
 - Optiver tradertest: 25
 - Solved some probability
 - Sloved some JS problems 
+
+## 31 March
+- Zetamac: 30
+- Optiver tradertest: 26
+- Solved some probability
+- Sloved some JS problems
+- Sloved Some RankYourBrain 
