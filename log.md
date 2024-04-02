@@ -17,9 +17,15 @@
 - Sloved some JS problems
 - Sloved Some RankYourBrain
 
-## 31 March
+## 1 March
 - Zetamac: 35
 - Optiver tradertest: 27
+- Sloved some JS problems
+- Sloved Some RankYourBrain 
+
+## 2 March
+- Zetamac: 40
+- Optiver tradertest: 30
 - Solved some probability
 - Sloved some JS problems
 - Sloved Some RankYourBrain
